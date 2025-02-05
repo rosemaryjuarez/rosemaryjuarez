@@ -1,7 +1,23 @@
 ### Hi there 👋
 <h1 align="center"> Rosemary Juarez </h1>
 
-<h2 align="center">Master Student in Environmental Data Science (MEDS)</h2>
+<h2 align="center">Master in Environmental Data Science (MEDS)</h2>
+
+I am a recent Graduate from Bren School of Environmental Science & Management at the University of Santa Barbara. I spent my past 5 years as both an undergraduate and graduate student at UCSB. I am a Ventura County native and love working with data science!
+
+Current projects ive worked on:
+
+- USAID Peru as an independent contracter for GIS and Database development
+- develop and create a Github-hosted Shinyapp dashboard for a client on Vernal Pools within Santa Barbara
+- develop and create a shinyapp dashboard for Bren client as part of my capstone project
+- Transportation Analysis on the LA olympics for 2028 
+- Flood-risk analysis on Kernville CA using Remote Sensing
+- data visualization for Los Padres ForestWatch's data
+- restoration and mitigation for Ojai Valley Land Conservancy
+
+...and more! im very interested in creating spatial visualizations for those with data.
+
+
 
 <!--
 **rosemaryjuarez/rosemaryjuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
